@@ -1,0 +1,89 @@
+/*
+--
+PHPBeGO Foundation - GoSoftware Media 2014
+http://phpbego.wordpress.com
+http://www.gosoftware.web.id
+--
+*/
+/* 
+    Created on : 21 Sep 14, 18:03:04
+    Author     : Suendri
+*/
+body {
+    margin: 0px !important;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+h2{
+    margin-top: -2px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-weight: normal;
+}
+h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+h4 {
+    margin-top: 6px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.table-dotted {
+    width: 100%;
+    margin-bottom: 4px;
+    font-size: 12px;
+    border-collapse: collapse;
+}
+.table-dotted tr {
+    border: 1px dotted #000;
+}
+.table-dotted td {
+    padding: 4px;
+    border: 1px dotted #000;
+}
+.table-dotted th {
+    padding: 4px;
+    border: 1px dotted #000;
+}
+hr {
+    border: none;
+    border-top: 1px dotted #000;
+}
+.clear-dash {
+    margin-top: 40px;
+}
+
+#koloms {
+    width:100%;
+    margin:10px 0 10px;
+}
+
+.kolom {
+    width:50%;
+    float:left;
+    display:inline;
+    word-wrap:break-word;
+    overflow:hidden;
+}
+.kolom-box {
+    width:100%;
+    margin:10px 0 10px;
+}
+.table-box {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 4px;
+    border: 1px dotted #000;
+    margin-top: 2px;
+}
+
